@@ -67,10 +67,6 @@ public class TreasureClass {
      * @return an array of all items
      */
     public String[] getItems() {
-        return new String[] {
-                item1,
-                item2,
-                item3
-        };
+        return new String[] {item1, item2, item3};
     }
 }
